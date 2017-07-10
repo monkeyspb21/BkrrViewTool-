@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+BkrrViewTool::Renderer.copyright 'S. Baker', 'All Rights Reserved'
+```
 
 ## Development
 
